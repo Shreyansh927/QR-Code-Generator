@@ -25,7 +25,7 @@ This is a simple, elegant, and responsive QR Code Generator web application buil
 - [QRServer API](https://goqr.me/api/)
 
 ## Demo
-> Webste Link --->>> [qrcode2k25.ccbp.tech]((https://qrcode2k25.ccbp.tech))
+> [Website Link → qrcode2k25.ccbp.tech](https://qrcode2k25.ccbp.tech)
 > <br>
 > Type any text or URL and click "Generate QR Code" to see it in action.
 
